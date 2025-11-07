@@ -3,7 +3,7 @@
 I'm a <strong>Back-end Developer</strong> with a passion for building stable, scalable, and clean systems.
 </p>
 
-<h3="center">🤝 I’m looking to collaborate on  <strong>.NET Projects</strong></h3>
+<h3 "center">🤝 I’m looking to collaborate on  <strong>.NET Projects</strong></h3>
 
 <h3 align="center">Connect with me:</h3>
 
