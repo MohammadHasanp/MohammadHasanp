@@ -8,7 +8,7 @@ I'm a <strong>Back-end Developer</strong> with a passion for building stable, sc
 
 ---
 
-### 📫 Contact Me
+<h1 align="center">Connect with me:</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh-8ab5ab386/" target="_blank">
