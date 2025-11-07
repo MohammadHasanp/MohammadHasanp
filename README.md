@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi! I'm Mohammad Hasan Pirayandeh</h1>
-<h3 "center">🤝 I’m looking to collaborate on  <strong>.NET Projects</strong></h3>
+<p "center">🤝 I’m looking to collaborate on  <strong>.NET Projects</strong></p>
 <p align="left">
 🔭 I'm a <strong>Back-end Developer</strong> with a passion for building stable, scalable, and clean systems.
 </p>
+<p align="left">How to reach me:</p>
+
 
 <h3 align="center">Connect with me:</h3>
 
