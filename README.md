@@ -3,8 +3,6 @@
 I'm a <strong>Back-end Developer</strong> with a passion for building stable, scalable, and clean systems.
 </p>
 
----
-
 <h3 align="center">🤝 I’m looking to collaborate on</h3>
 <p align="center"><strong>.NET Projects</strong></p>
 
