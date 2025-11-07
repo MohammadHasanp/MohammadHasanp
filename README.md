@@ -11,7 +11,7 @@ I'm a **back-end developer** with a passion for building stable, scalable, and c
 
 ### 📫 Contact Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh-8ab5ab386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
