@@ -1,11 +1,13 @@
-#  Hi👋, I'm Mohammad Hasan Pirayandeh  
+<h1 align="center">👋 Hi! I'm Mohammad Hasan Pirayandeh</h1>
 
-I'm a **back-end developer** with a passion for building stable, scalable, and clean systems.  
+<p align="center">
+I'm a <strong>Back-end Developer</strong> with a passion for building stable, scalable, and clean systems.
+</p>
 
 ---
 
-### 🤝 I’m looking to collaborate on  
-**.NET Projects**
+<h3 align="center">🤝 I’m looking to collaborate on</h3>
+<p align="center"><strong>.NET Projects</strong></p>
 
 ---
 
