@@ -1,19 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
 <p align="center">
-  <b>Software Developer | .NET </b>
+  <b>Backend Developer | .NET</b>
 </p>
 
 <p align="center">
-  I’m a software developer focused on building clean and scalable backend applications.
+  Building clean, scalable and maintainable backend applications.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,mongodb,redis,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,rabbitmq,redis,mongodb,docker,postgres,mysql,git" />
+</p>
+
+---
+
+### 🏗️ Architecture & Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-333333?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-333333?style=for-the-badge" />
 </p>
 
 ---
@@ -21,13 +34,13 @@
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mohammad-hasan-pirayandeh/)" />
+  <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_TELEGRAM_URL">
-    <img src="[https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white](https://t.me/@Mohammadp86)" />
+  <a href="https://t.me/Mohammadp86">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL">
-    <img src="[https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white](https://www.instagram.com/Mohammad__hasan__p)" />
+  <a href="https://www.instagram.com/Mohammad__hasan__p/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
