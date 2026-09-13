@@ -20,12 +20,18 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,mssql,redis,mongodb,docker,git" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-ff7b72?style=for-the-badge&logo=dotnet&logoColor=white" height="40" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-ff7b72?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="40" />
+</p>
+
 ---
 
 ### 🏗️ Architecture & Engineering Mindset
 
 <p align="center">
-  <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · <code>Unit Testing</code> · <code>ASP.NET Core</code> · <code>Web API</code> · <code>SQL Server</code>
+  <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · <code>Unit Testing</code> · <code>ASP.NET Core</code> · <code>Web API</code>
 </p>
 
 ---
