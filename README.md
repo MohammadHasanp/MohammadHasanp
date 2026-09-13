@@ -20,6 +20,7 @@
 
 ### 🏗️ Architecture & Engineering Mindset
 
+---
 <p align="center">
   <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · 
   <code>OOP</code>.
