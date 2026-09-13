@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasan Pirayandeh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Developer;Clean+%26+Scalable+Architecture;Microservices+%7C+DDD+%7C+CQRS;.NET+%7C+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Clean+%26+Scalable+Architecture;Microservices+%7C+DDD+%7C+CQRS;.NET+%7C+Distributed+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
