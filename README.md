@@ -15,19 +15,15 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,redis,mongodb,docker,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,sqlserver,postgresql,redis,mongodb,docker,git" />
 </p>
-
----
 
 ### 🏗️ Architecture & Engineering Mindset
 
----
-
-### ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,sqlserver,postgresql,redis,mongodb,docker,git" />
+  <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · 
+  <code>OOP</code>.
+  <code>Unit Testing</code> · <code>ASP.NET Core</code> · <code>Web API</code>
 </p>
 
 ---
