@@ -29,9 +29,6 @@
 
 `Microservices` · `Clean Architecture` · `DDD` · `CQRS` · `Unit Testing`
 
----
-
----
 
 ### 🔗 Let's Connect
 
