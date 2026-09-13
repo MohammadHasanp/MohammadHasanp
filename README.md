@@ -24,16 +24,9 @@
 </p>
 
 ---
-
 ### 🏗️ Architecture & Practices
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/DDD-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/CQRS-333333?style=flat-square" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-333333?style=flat-square" />
-</p>
+`Microservices` · `Clean Architecture` · `DDD` · `CQRS` · `Unit Testing`
 
 ---
 
