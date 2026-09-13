@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 
 <p align="center">
-  <b>Software Developer | .NET Developer</b>
+  <b>Software Developer | .NET </b>
 </p>
 
 <p align="center">
