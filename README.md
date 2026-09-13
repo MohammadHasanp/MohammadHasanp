@@ -16,7 +16,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,aspnet,grpc,rabbitmq,mssql,redis,mongodb,docker,git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,redis,mongodb,docker,git" />
 </p>
 
 ---
