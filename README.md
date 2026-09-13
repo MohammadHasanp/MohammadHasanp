@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  I design and build backend systems that are <b>clean</b>, <b>scalable</b>, and <b>built to last</b>.
-  <br/>
-  My focus is on modern architectures — <b>Microservices</b>, <b>Clean Architecture</b>, and <b>Modular</b> design — 
-  <br/>
-  powered by the <b>.NET</b> ecosystem and battle-tested distributed system patterns.
+I’m a Software Developer passionate about building reliable, scalable, and maintainable software. I enjoy learning new technologies, solving complex problems, and turning ideas into practical solutions.
 </p>
 
 ---
