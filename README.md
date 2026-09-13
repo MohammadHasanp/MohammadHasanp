@@ -31,19 +31,20 @@
 
 ---
 
+---
+
 ### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh/">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="42" height="42" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="44" height="44" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/Mohammadp86">
-    <img src="https://img.shields.io/badge/-26A5E4?style=flat-square&logo=telegram&logoColor=white" width="42" height="42" />
+    <img src="https://img.icons8.com/color/48/telegram-app.png" width="44" height="44" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/Mohammad__hasan__p/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" width="42" height="42" />
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="44" height="44" />
   </a>
 </p>
-****
