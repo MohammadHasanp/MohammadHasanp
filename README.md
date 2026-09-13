@@ -13,7 +13,7 @@
 ### ⚙️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet,rabbitmq,redis,mongodb,docker,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,asp.net,rabbitmq,redis,mongodb,docker,postgres,git" />
 </p>
 
 ---
