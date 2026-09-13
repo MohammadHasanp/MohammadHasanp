@@ -18,12 +18,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,redis,mongodb,docker,git" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white" alt="gRPC" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,redis,mongodb,docker,git" />
 </p>
 
 ---
@@ -36,20 +31,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/Mohammadp86" target="_blank">
@@ -57,6 +43,6 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/Mohammad__hasan__p/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
