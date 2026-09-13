@@ -24,7 +24,9 @@
 ### 🏗️ Architecture & Engineering Mindset
 
 <p align="center">
-  <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · <code>Unit Testing</code> · <code>ASP.NET Core</code> · <code>Web API</code>
+  <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · 
+  <code>SOLID</code>
+  .<code>Unit Testing</code> · <code>ASP.NET Core</code> · <code>Web API</code>
 </p>
 
 ---
