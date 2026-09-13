@@ -3,16 +3,16 @@
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
-  Backend developer passionate about building
+  Backend developer focused on building
   <b>clean, scalable, and maintainable</b> software.
   <br/>
-  I enjoy working with modern backend architectures,
-  distributed systems, and .NET technologies.
+  Interested in <b>.NET</b>, distributed systems, backend architecture,
+  and modern software engineering practices.
 </p>
 
----
+<br/>
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,redis,mongodb,docker,git" />
@@ -24,24 +24,25 @@
 </p>
 
 ---
-### 🏗️ Architecture & Practices
+
+## 🏗️ Architecture & Practices
 
 `Microservices` · `Clean Architecture` · `DDD` · `CQRS` · `Unit Testing`
 
 ---
 
-### 🔗 Let's Connect
+## 🔗 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-hasan-pirayandeh/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://t.me/Mohammadp86">
-    <img src="https://skillicons.dev/icons?i=telegram" width="40" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/Mohammad__hasan__p/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
