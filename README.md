@@ -15,7 +15,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,redis,mongodb,docker,mssql,git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rabbitmq,redis,mongodb,docker,git" />
 </p>
 
 <p align="center">
