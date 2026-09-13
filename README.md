@@ -12,6 +12,8 @@
   powered by the <b>.NET</b> ecosystem and battle-tested distributed system patterns.
 </p>
 
+---
+
 ### ⚙️ Tech Stack
 
 <p align="center">
