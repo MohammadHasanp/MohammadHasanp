@@ -18,9 +18,9 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,grpc,rabbitmq,sqlserver,postgresql,redis,mongodb,docker,git" />
 </p>
 
-### 🏗️ Architecture & Engineering Mindset
-
 ---
+
+### 🏗️ Architecture & Engineering Mindset
 <p align="center">
   <code>Microservices</code> · <code>Clean Architecture</code> · <code>DDD</code> · <code>CQRS</code> · <code>Event-Driven</code> · <code>SOLID</code> · 
   <code>OOP</code>.
